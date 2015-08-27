@@ -2,8 +2,8 @@ include(["ui.js"], function() {
 	var wnd = new FPDrawerWindow();
 	wnd.setTitle("Test Application");
 	wnd.setTheme({
-		primaryColor: "#170865",
-		accentColor: "#170865"
+		primaryColor: "#cccccc",
+		accentColor: "#cccccc"
 	});
 
 	var uilLoader = new FPUILoader();
