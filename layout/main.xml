@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Main view -->
+<FPLayout orientation="vertical"  backgroundColor="#f7f7f7">
+    <FPView />
+    <FPLabel size="match wrap" align="center" title="Welcome to my tedt application!" />
+    <FPButton name="about_button" size="match wrap" margin="20 0 20 0" title="About me!" />
+    <FPView />
+</FPLayout>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Main view -->
+<FPLayout backgroundColor="#a111ca">
+    <FPView />
+    <FPLabel size="match wrap" align="center" title="Second view!" />
+    <FPView />
+</FPLayout>
